@@ -1,0 +1,10 @@
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\obj\Debug\PrayerAppcsproj.csprojAssemblyReference.cache
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\obj\Debug\PrayerAppcsproj.csproj.GenerateResource.cache
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\obj\Debug\PrayerAppcsproj.csproj.CoreCompileInputs.cache
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BealsD\Source\Repos\PrayerCalc\PrayerApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
